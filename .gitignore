@@ -98,6 +98,9 @@ __pypackages__/
 celerybeat-schedule
 celerybeat.pid
 
+# Jetbrains stuff
+.idea
+
 # SageMath parsed files
 *.sage.py
 
